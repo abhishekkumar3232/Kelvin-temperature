@@ -1,4 +1,4 @@
-# Kelvin-temperature
+# Kelvin-Fahrenheit-Celsius-Converter
 JS file to find temperature.
 
 const kelvin = 293;
