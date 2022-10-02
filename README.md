@@ -1,5 +1,5 @@
 # Kelvin-Fahrenheit-Celsius-Converter
-JS file to find temperature.
+JS code to find temperature.
 
 const kelvin = 293;
 //setting a constant kelvin
